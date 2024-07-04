@@ -1,0 +1,19 @@
+.jumbotron {
+  padding-top: 2rem;
+  padding-bottom: 0;
+  padding-left: 0;
+  padding-right: 0;
+  background-color: #e2edff;
+}
+
+.fs-5 {
+  font-size: 1.25rem; /* Ubah ukuran teks sesuai kebutuhan Anda */
+}
+
+#Gallery {
+  background-color: #e2edff;
+}
+
+.fw-bold {
+  font-weight: bold;
+}
